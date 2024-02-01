@@ -19,7 +19,7 @@ export const Navbar = () => {
             to="/use-transition"
             className="block px-3 py-2 shadow-md rounded-lg bg-white"
           >
-            UseTransition
+            useTransition
           </Link>
         </li>
       </ul>
